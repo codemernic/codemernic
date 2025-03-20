@@ -6,7 +6,6 @@
 - 🎯 Personal Tag: designer| Coder | Explorer
 - 🧑 About Me: Passionate Developer & Tech Enthusiast
 - 💡 Identity: Software Engineer & Cloud Learner
-- 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love coding and dream of traveling the world!🚀  
 
 <!---
